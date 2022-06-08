@@ -1,0 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=Prompt';
+body{
+  background-color: black;
+  height: auto;
+  font-family: 'Prompt', sans-serif;
+}
